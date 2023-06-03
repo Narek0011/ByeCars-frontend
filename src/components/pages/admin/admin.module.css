@@ -1,0 +1,63 @@
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 300px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+
+}
+.loginForm {
+    border:1px solid #D7DBE2;
+    padding: 10px;
+    border-radius: 4px;
+}
+.loginForm > div > div > form {
+    font-family: 'Roboto';
+    display: block;
+    padding-bottom: 10px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.loginForm > div > div > form > div > input{
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

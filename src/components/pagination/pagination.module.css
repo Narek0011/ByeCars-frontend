@@ -1,0 +1,21 @@
+.pagination{
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pagination > button {
+    width: 100px;
+    height: 35px;
+    font-size: 17px;
+    margin-left: 10px;
+    border: none;
+    background: #35A5ED;
+    border-radius: 5px;
+}
+
+.pagination > button:hover{
+    background: #2c6ca8;
+}

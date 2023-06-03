@@ -1,0 +1,195 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #FFFFFF;
+    padding: 14px 134px 14px 100px;
+    border-bottom: 1px solid #D7DBE2;
+}
+.header .linkOne image{
+    background: #444444;
+}
+.header a {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.header > button {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 18px 32px;
+    background: #4EAB66;
+    border-radius: 5px;
+}
+
+.backImgTwo{
+    position: absolute;
+    width: 23px;
+    height: 24px;
+    top: 10px;
+    left: 60px;
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAYCAYAAAARfGZ1AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJZSURBVHgBvVXdcdpAEN7d8zh5xB0oFYAqiAA/BPIQUoGhAuMKiCsIrgCoIDyBZ4jJUQFSKlAqCE95cLjb7IGNhRAgj8f5ZuBOe3vffdqfE8IBzIOgoN5SA5CKAOyJqSC/hUGOwFrt32p9aD9mkn4IPIWqx8glyzhQzKFBXLgDCPFrwjW2wNf+aNrPRR7Vq5fA0LaIAwAbK8YLJiiJrQD7EVtryvIm8V7yqH7eAbZNy9RSyB1GCCA/YvuXPvuTSbhD/kiMgFeitHdEaa43IPfnYiwhaDvFLyB2WOUKksp/1qs9wxgR8qVzePLlxWNC3ZMBigG5sK4cLBHCRdYJD+r1iVPNzIFsmskGb9vJ+ukkJTGvVcJU9awg6jsyaBSHNiIWJRQeJhLIAP3S6K4FRxB9rPwGxp0w2j/mjBTie7Y8w1RlsDUDyAHJ003mwqkKSMrNk8hvn8xwc6z7nkiWXWCOd+xKGs5VhlOftBfHd23ICX+oF67KdhZEMK2FQgNeAVJNEMJrYIkhGeBfafu6qZ4BXO42HZv4BCwNgVbNswGRmstw5uZhvdLL4mOGyB9Pu/NGUKB79S21GPsTHZ74t991WKvqVClulMhd08wil2RpGbpwn+zoNSzD9XovuDCcB0T8I+mADEOLK4e9yXY+TsjW7Smqi+Ppuw25Q1Sr9mHPXfEcWItlFw03p43xjXG1/cLKka/SA/EW+aoZTk1Z4pWr7VOk7va8Ko6mX5LWPd/QSlMaoAOIHhyjZdDMppV1e+Khje4QJPwkU08cSxtCCZ+QzuQ2HCbD8F/xD7rBE1q4wqh5AAAAAElFTkSuQmCC");
+}
+
+.routes{
+    display: block;
+    width: 120px;
+    background: #35A5ED;
+}
+.navBar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 63px;
+    margin-right: 76px;
+}
+.navBar a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    color: #A4A4A4;
+    text-decoration: none;
+}
+.linkOne{}
+.linkTwo{}
+.linkTree{}
+.linkFor{}
+.activeNavLink {
+    color: #000000 !important;
+}
+.mBottom{
+   margin-bottom: 21px;
+}
+.selectLogo{
+    display: none;
+}
+.imageInHeaderOne{
+    margin-bottom: 21px;
+}
+.imageInHeaderTwo{
+    margin-bottom: 21px;
+    margin-left:15px
+}
+@media (max-width: 360px) {
+    .header{
+        padding: 14px 27px 14px 10px;
+    }
+    .header button{
+        display: flex;
+        width: 121px;
+        height: 42px;
+        align-items: center;
+        justify-content: center;
+        background: #4EAB66;
+        border-radius: 5px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 13px;
+        line-height: 15px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+     }
+    .header a {
+        display: none;
+    }
+    .linkOne{
+        display: none;
+    }
+    .linkTwo{
+        display: none;
+    }
+    .linkTree{
+        display: none;
+    }
+    .linkFor{
+        display: flex;
+    }
+    .imageInHeaderOne{
+        margin-left: 53px;
+    }
+    .imageInHeaderTwo{
+        margin-left: 30px;
+    }
+    .navBar{
+        margin-left: -20px;
+        margin-right: 12px;
+    }
+    .selectLogo{
+        display: inline;
+        margin-left: 21px;
+    }
+}
+.selectImg{
+    width: 25px;
+    height: 18px;
+    background-image: url("../../assets/images/select.png");
+}
+
+
+@media (max-width: 1187px){
+    .header img {
+        display: none;
+    }
+    .header .logo{
+        display: inline;
+    }
+}
+
+@media (max-width: 930px){
+    .header img {
+        display: block;
+        margin-bottom: 0;
+    }
+    .header a {
+        display: none;
+    }
+    .linkFor{
+        display: flex;
+    }
+
+}
+
+@media (max-width: 760px){
+    .linkOne{
+        display: none;
+    }
+    .linkTwo{
+        display: none;
+    }
+    .linkTree{
+        display: none;
+    }
+}
+
+@media (max-width:889px) {
+    .header{
+        padding: 13px 10px 14px 10px;
+    }
+}
+
+@media (max-width: 1132px) and (min-width: 458px){
+    .selectLogo{
+        display: inline;
+        margin-left: 5px;
+    }
+}
+
+@media (max-width: 414px) and (min-width: 360px){
+    .header > button {
+        padding: 18px 14px;
+    }
+}
+

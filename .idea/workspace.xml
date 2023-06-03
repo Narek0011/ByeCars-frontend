@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="669587de-6274-4902-826e-26202011a6b1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="2N8uKhAFzOWhCE07MfdHDGK0hhf" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel-react-full-stack" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.2.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\NewBcars" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\NewBcars\src\redux" />
+      <recent name="C:\Users\HP\Desktop\NewBcars\src\components\pages\admin\list-car" />
+      <recent name="C:\Users\HP\Desktop\NewBcars\src\components\pages\admin" />
+      <recent name="C:\Users\HP\Desktop\NewBcars\src\components\pages\users" />
+      <recent name="C:\Users\HP\Desktop\NewBcars\src\components\pages\admin\crut" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="669587de-6274-4902-826e-26202011a6b1" name="Default Changelist" comment="" />
+      <created>1679057967541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679057967541</updated>
+      <workItem from="1679057968744" duration="3513000" />
+      <workItem from="1679063808418" duration="1484000" />
+      <workItem from="1679388052148" duration="995000" />
+      <workItem from="1679389071053" duration="3999000" />
+      <workItem from="1679402710289" duration="11398000" />
+      <workItem from="1679468359127" duration="20759000" />
+      <workItem from="1679555235457" duration="10391000" />
+      <workItem from="1679578049261" duration="6324000" />
+      <workItem from="1679641443166" duration="2651000" />
+      <workItem from="1679660919189" duration="13700000" />
+      <workItem from="1679729086559" duration="11792000" />
+      <workItem from="1679900413713" duration="9111000" />
+      <workItem from="1679918768192" duration="13254000" />
+      <workItem from="1679986033238" duration="21118000" />
+      <workItem from="1680021946335" duration="590000" />
+      <workItem from="1680073222309" duration="20341000" />
+      <workItem from="1680160175717" duration="9248000" />
+      <workItem from="1680175185269" duration="10713000" />
+      <workItem from="1680245261450" duration="17873000" />
+      <workItem from="1680506109258" duration="22729000" />
+      <workItem from="1680593175253" duration="13554000" />
+      <workItem from="1680678535799" duration="18179000" />
+      <workItem from="1680766614894" duration="17344000" />
+      <workItem from="1680851447820" duration="11884000" />
+      <workItem from="1681109436835" duration="688000" />
+      <workItem from="1681113794879" duration="3509000" />
+      <workItem from="1681196983103" duration="1807000" />
+      <workItem from="1681282050540" duration="668000" />
+      <workItem from="1681295787661" duration="1189000" />
+      <workItem from="1681370344972" duration="2740000" />
+      <workItem from="1681483334311" duration="4414000" />
+      <workItem from="1681543325019" duration="2607000" />
+      <workItem from="1681736759635" duration="9000" />
+      <workItem from="1681740229506" duration="2164000" />
+      <workItem from="1681745261522" duration="1351000" />
+      <workItem from="1681802544138" duration="3227000" />
+      <workItem from="1681887885998" duration="1179000" />
+      <workItem from="1681974215043" duration="2890000" />
+      <workItem from="1685436519008" duration="192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

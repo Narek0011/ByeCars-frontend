@@ -1,0 +1,162 @@
+container{
+    display: flex;
+    margin-left: 110px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    border-bottom: 1px solid #444444;
+}
+
+.header .searchHeader > input {
+    width: 600px;
+    margin-right: 30px;
+}
+.header .searchHeader > button {
+    height: 35px;
+}
+.usersLogo{
+    padding-right: 18px;
+}
+.usersLogoTwo{
+    padding-top: 6px;
+    padding-right: 15px;
+}
+
+.userName{
+    padding: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+    color: #000000;
+ }
+.menu{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background: #35A5ED;
+    border-radius: 7px;
+}
+.searching{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background: #e6eaf1;
+    border-radius: 8px;
+}
+
+.searching .selectTree {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    width: 150px;
+}
+
+.searching > div > button{
+    width: 100px;
+    font-size: 20px;
+}
+.searchHeader{
+    display: flex;
+    padding: 5px;
+}
+
+.title{
+    padding: 10px;
+    border-bottom: 1px solid #444444;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.dashboard{
+    padding: 10px;
+}
+
+.titleTree{
+    width: 220px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+.selectTree  select{
+    width: 220px;
+    height: 35px;
+    margin-bottom: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.selectFor select{
+    width: 220px;
+    height: 35px;
+    margin-bottom: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.menu label{
+    font-size: 18px;
+    padding-bottom: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.menu input{
+    border: 1px solid #D7DBE2;
+    border-radius: 2px;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+thead{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+
+tbody{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.buttonSettings > div > button{
+    font-family: Roboto;
+    margin-top: 10px;
+    font-size: 17px;
+    width:150px;
+}
